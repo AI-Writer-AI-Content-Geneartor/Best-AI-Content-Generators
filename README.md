@@ -22,7 +22,7 @@ Get ready for a deep dive into each tool's key features, use cases, and customer
 
 | Ranking | Top AI Content Generator | Highlight |
 |---------|--------------------------|-----------|
-| 1       | Junia.ai                 | Best AI content generator with features like keyword expansion, tailored AI images, SEO optimization, competitor analysis, captivating promotions, personalized customer replies. |
+| 1       | [Junia.ai](https://www.junia.ai/)                 | Best AI content generator with features like keyword expansion, tailored AI images, SEO optimization, competitor analysis, captivating promotions, personalized customer replies. |
 | 2       | Surfer SEO               | AI SEO app for article ideas, content planning and analysis. Features include keyword density analysis, readability checks, backlink profile analysis and competitor content comparison. |
 | 3       | Copy.ai                  | AI platform for overcoming writer's block and generating creative content ideas. Offers different plans to suit various needs. |
 | 4       | Rytr                     | Versatile writing assistant offering AI-generated content ideas, topic research and expansion, language translation at affordable pricing options. |
